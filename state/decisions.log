@@ -1,0 +1,2 @@
+# Autonomous Earner — 判断ログ
+# 形式: [ISO日時] DECISION: 判断内容 | REASON: 理由 | CONFIDENCE: 確信度(0-1)

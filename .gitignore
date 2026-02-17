@@ -1,0 +1,18 @@
+# 環境設定
+.env
+
+# ログ
+logs/
+
+# ノードモジュール
+site/node_modules/
+site/dist/
+site/.astro/
+
+# OS
+.DS_Store
+Thumbs.db
+nul
+
+# セッションカウンター（一時データ）
+state/session_counter.json

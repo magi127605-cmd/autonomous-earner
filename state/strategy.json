@@ -1,0 +1,15 @@
+{
+  "decided": false,
+  "primary_niche": "",
+  "secondary_niches": [],
+  "revenue_model": "",
+  "content_plan": {
+    "target_articles_per_day": 0,
+    "keyword_targets": [],
+    "content_pillars": []
+  },
+  "bandit_allocation": {},
+  "phase": "init",
+  "decided_at": "",
+  "last_reviewed": ""
+}
