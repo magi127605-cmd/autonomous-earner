@@ -8,3 +8,6 @@
 [2026-02-18T00:05:08Z] DECISION: content.config.tsにtags/keywordsフィールドを追加 | REASON: SEO最適化のためメタデータ拡充が必要。default([])で後方互換性を維持し既存記事のビルドが壊れない。 | CONFIDENCE: 0.90
 [2026-02-18T00:05:08Z] DECISION: 第2記事を「ChatGPT vs Claude for Freelancers」比較記事に決定 | REASON: キューの最優先タスク(Task#2)。比較記事は購買意図が高いキーワードを狙え、アフィリエイトリンク設置の自然な機会が多い。バンディット配分の25%(comparison_articles)に該当。 | CONFIDENCE: 0.75
 [2026-02-18T00:05:08Z] DECISION: 既存2記事にtags/keywordsを追加してSEOメタデータを統一 | REASON: 新スキーマの実効性を全記事で統一。将来のタグ別ページ生成やSEO分析の基盤作り。 | CONFIDENCE: 0.85
+[2026-02-18T01:00:00Z] DECISION: 第3記事を「How to Automate Your Freelance Business with Zapier」ワークフローガイドに決定 | REASON: キュー最優先のpendingタスク(Task#3)。ワークフローガイドはバンディット配分の20%(workflow_guides)に該当。Zapierは既に記事1でも紹介済みで内部リンク構築可能。how-toキーワードは検索意図が明確。 | CONFIDENCE: 0.80
+[2026-02-18T01:00:00Z] DECISION: 記事構成を「10個の独立ワークフロー + ROI計算テーブル」形式に決定 | REASON: 競合分析の結果、HackerNoonの12 integrations記事が上位だが具体的なステップが不足。各ワークフローにProblem→Workflow→Time Saved→Pro Tipの統一フォーマットを採用し差別化。ROI計算で説得力を追加。 | CONFIDENCE: 0.75
+[2026-02-18T01:00:00Z] DECISION: 新規タスク追加: Zapier vs Make vs n8n比較記事、クライアントオンボーディング自動化ガイド | REASON: Zapier記事からの自然な派生テーマ。比較記事(Task#10)はバンディット配分25%に該当し購買意図が高い。オンボーディングガイド(Task#11)は記事内の個別セクションを深堀りする形で内部リンク強化。 | CONFIDENCE: 0.70

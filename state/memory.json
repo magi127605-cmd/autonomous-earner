@@ -36,15 +36,27 @@
     {
       "date": "2026-02-18",
       "content": "2026年のAIツール市場: ChatGPT Go($8/mo)が新登場、Claude Max($100-200/mo)が追加。フリーランサーの主流は$20/moのPlus/Pro。Triple Stack(ChatGPT+Claude+Perplexity=$60/mo)がトレンド。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "ワークフローガイド記事はSEO的に有効。'automate freelance business with Zapier'のようなhow-toキーワードは検索意図が明確で、ステップバイステップ形式が検索上位に表示されやすい。Zapier Free=$0(100tasks/mo), Pro=$19.99/mo(750tasks)。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "フリーランサーの管理業務は月15時間以上。自動化で半分回収可能。具体的なワークフローレシピを提示する記事形式はエンゲージメントが高い。"
     }
   ],
   "patterns": [
     {
       "date": "2026-02-18",
       "content": "比較記事のフォーマット: Quick Verdict → 各カテゴリ詳細比較 → 使い分けガイド → 最終推奨。テーブルを多用すると読みやすい。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "ワークフローガイドのフォーマット: Problem → Workflow (Trigger→Action) → Time Saved → Pro Tip。各ワークフローを独立させ、読者が必要な部分だけ読める構成が効果的。最後にROI計算のまとめテーブルを入れると説得力が増す。"
     }
   ],
-  "session_count": 2,
-  "last_session": "2026-02-18T00:05:08Z",
+  "session_count": 3,
+  "last_session": "2026-02-18T01:00:00Z",
   "version": 1
 }

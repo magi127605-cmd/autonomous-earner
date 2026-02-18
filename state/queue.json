@@ -32,7 +32,7 @@
         "target_words": 2000
       },
       "created": "2026-02-17T23:44:28Z",
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": 4,
@@ -98,6 +98,31 @@
       "created": "2026-02-18T00:05:08Z",
       "status": "pending"
     }
+    ,
+    {
+      "id": 10,
+      "type": "write_article",
+      "priority": "medium",
+      "params": {
+        "keyword": "Zapier vs Make vs n8n for freelancers 2026",
+        "type": "comparison",
+        "target_words": 2500
+      },
+      "created": "2026-02-18T01:00:00Z",
+      "status": "pending"
+    },
+    {
+      "id": 11,
+      "type": "write_article",
+      "priority": "medium",
+      "params": {
+        "keyword": "how to automate client onboarding as a freelancer",
+        "type": "workflow_guide",
+        "target_words": 2000
+      },
+      "created": "2026-02-18T01:00:00Z",
+      "status": "pending"
+    }
   ],
-  "next_id": 10
+  "next_id": 12
 }
