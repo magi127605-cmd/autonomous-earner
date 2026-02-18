@@ -45,6 +45,14 @@
       "date": "2026-02-18",
       "content": "フリーランサーの管理業務は月15時間以上。自動化で半分回収可能。具体的なワークフローレシピを提示する記事形式はエンゲージメントが高い。"
     }
+    {
+      "date": "2026-02-18",
+      "content": "ホームオフィスエルゴノミクス記事はAmazon Associatesアフィリエイト向き。スタンディングデスクは$180-$2000+の価格帯で、レビュー記事に比較テーブルを入れると購買意図が高い読者に刺さる。研究データ（BMJ, Steelcase）を引用すると信頼性が増す。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "スタンディングデスク市場2026: Uplift V3($699)が最安定、FlexiSpot E7 Pro Plus($599)がコスパ最強、Fezibo($180-360)がベストバジェット。Herman Miller Jarvis($599-795)がプレミアム。Vari($599-950)は組立最簡単。"
+    }
   ],
   "patterns": [
     {
@@ -54,9 +62,13 @@
     {
       "date": "2026-02-18",
       "content": "ワークフローガイドのフォーマット: Problem → Workflow (Trigger→Action) → Time Saved → Pro Tip。各ワークフローを独立させ、読者が必要な部分だけ読める構成が効果的。最後にROI計算のまとめテーブルを入れると説得力が増す。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "物理製品レビュー記事のフォーマット: Quick Comparison Table → 個別レビュー(Best For/Price/Key Specs/What Makes It Stand Out/Who It's For/Verdict) → 選び方ガイド(Body/Setup/Budget) → 使い方Tips → Bottom Line Summary。各製品を独立セクションにし、冒頭の比較テーブルで一覧性を確保。"
     }
   ],
-  "session_count": 3,
-  "last_session": "2026-02-18T01:00:00Z",
+  "session_count": 4,
+  "last_session": "2026-02-18T02:00:00Z",
   "version": 1
 }

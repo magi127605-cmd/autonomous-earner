@@ -1,128 +1,35 @@
 {
   "tasks": [
+    {"id": 1, "type": "deploy", "priority": "high", "params": {"description": "Git commit all changes and push to deploy via GitHub Pages"}, "created": "2026-02-17T23:44:28Z", "status": "done"},
+    {"id": 2, "type": "write_article", "priority": "high", "params": {"keyword": "ChatGPT vs Claude for freelancers", "type": "comparison", "target_words": 2500}, "created": "2026-02-17T23:44:28Z", "status": "done"},
+    {"id": 3, "type": "write_article", "priority": "high", "params": {"keyword": "automate freelance business with Zapier", "type": "workflow_guide", "target_words": 2000}, "created": "2026-02-17T23:44:28Z", "status": "done"},
+    {"id": 4, "type": "write_article", "priority": "medium", "params": {"keyword": "best standing desk for home office 2026", "type": "review", "target_words": 2000}, "created": "2026-02-17T23:44:28Z", "status": "done"},
+    {"id": 5, "type": "schema_update", "priority": "medium", "params": {"description": "Add tags and keywords fields to content.config.ts schema for better SEO"}, "created": "2026-02-17T23:44:28Z", "status": "done"},
     {
-      "id": 1,
-      "type": "deploy",
-      "priority": "high",
-      "params": {
-        "description": "Git commit all changes and push to deploy via GitHub Pages"
-      },
-      "created": "2026-02-17T23:44:28Z",
-      "status": "done"
-    },
-    {
-      "id": 2,
-      "type": "write_article",
-      "priority": "high",
-      "params": {
-        "keyword": "ChatGPT vs Claude for freelancers",
-        "type": "comparison",
-        "target_words": 2500
-      },
-      "created": "2026-02-17T23:44:28Z",
-      "status": "done"
-    },
-    {
-      "id": 3,
-      "type": "write_article",
-      "priority": "high",
-      "params": {
-        "keyword": "automate freelance business with Zapier",
-        "type": "workflow_guide",
-        "target_words": 2000
-      },
-      "created": "2026-02-17T23:44:28Z",
-      "status": "done"
-    },
-    {
-      "id": 4,
-      "type": "write_article",
-      "priority": "medium",
-      "params": {
-        "keyword": "best standing desk for home office 2026",
-        "type": "review",
-        "target_words": 2000
-      },
-      "created": "2026-02-17T23:44:28Z",
+      "id": 12,
+      "type": "check_performance",
+      "priority": "critical",
+      "params": {"description": "First performance check: verify Google indexing and search rankings for all published articles"},
+      "created": "2026-02-18T00:30:00Z",
       "status": "pending"
     },
     {
-      "id": 5,
-      "type": "schema_update",
-      "priority": "medium",
+      "id": 13,
+      "type": "notify_human",
+      "priority": "critical",
       "params": {
-        "description": "Add tags and keywords fields to content.config.ts schema for better SEO"
+        "title": "[ACTION REQUIRED] Affiliate program sign-ups needed",
+        "body": "## SoloStack needs affiliate accounts to start earning revenue\n\nThe AI has published 4+ articles and needs affiliate links to monetize.\n\n### Please sign up for these programs:\n\n1. **Impact.com** (covers: Grammarly, Notion, Zapier, Canva, Otter.ai)\n   - https://impact.com — One account covers multiple SaaS affiliates\n   - This is the highest priority (covers most tools we review)\n\n2. **Amazon Associates** (covers: standing desks, office equipment)\n   - https://affiliate-program.amazon.com\n   - For physical product reviews\n\n3. **OpenAI Affiliate** (ChatGPT referrals)\n   - Check if available at https://openai.com/affiliate\n\n4. **Google Search Console** (critical for SEO tracking)\n   - https://search.google.com/search-console\n   - Verify site: magi127605-cmd.github.io\n   - Submit sitemap: https://magi127605-cmd.github.io/autonomous-earner/sitemap-index.xml\n\nAfter signing up, please create a file `state/affiliate_ids.json` with your affiliate IDs so the AI can insert links into articles.\n\nFormat:\n```json\n{\"impact_id\": \"...\", \"amazon_tag\": \"...\", \"openai_ref\": \"...\"}\n```"
       },
-      "created": "2026-02-17T23:44:28Z",
-      "status": "done"
-    },
-    {
-      "id": 6,
-      "type": "research",
-      "priority": "low",
-      "params": {
-        "description": "Research affiliate programs: Jasper, Grammarly, Notion, Zapier — sign-up requirements and commission rates"
-      },
-      "created": "2026-02-17T23:44:28Z",
+      "created": "2026-02-18T00:30:00Z",
       "status": "pending"
     },
-    {
-      "id": 7,
-      "type": "write_article",
-      "priority": "high",
-      "params": {
-        "keyword": "best AI writing tools for freelancers 2026",
-        "type": "review",
-        "target_words": 2500
-      },
-      "created": "2026-02-18T00:05:08Z",
-      "status": "pending"
-    },
-    {
-      "id": 8,
-      "type": "seo_optimization",
-      "priority": "medium",
-      "params": {
-        "description": "Add tags and keywords to existing articles (hello-world, best-ai-tools) using new schema fields"
-      },
-      "created": "2026-02-18T00:05:08Z",
-      "status": "pending"
-    },
-    {
-      "id": 9,
-      "type": "deploy",
-      "priority": "high",
-      "params": {
-        "description": "Git commit session 2 changes and push to deploy"
-      },
-      "created": "2026-02-18T00:05:08Z",
-      "status": "pending"
-    }
-    ,
-    {
-      "id": 10,
-      "type": "write_article",
-      "priority": "medium",
-      "params": {
-        "keyword": "Zapier vs Make vs n8n for freelancers 2026",
-        "type": "comparison",
-        "target_words": 2500
-      },
-      "created": "2026-02-18T01:00:00Z",
-      "status": "pending"
-    },
-    {
-      "id": 11,
-      "type": "write_article",
-      "priority": "medium",
-      "params": {
-        "keyword": "how to automate client onboarding as a freelancer",
-        "type": "workflow_guide",
-        "target_words": 2000
-      },
-      "created": "2026-02-18T01:00:00Z",
-      "status": "pending"
-    }
+    {"id": 6, "type": "research", "priority": "low", "params": {"description": "Research affiliate programs: Jasper, Grammarly, Notion, Zapier — sign-up requirements and commission rates"}, "created": "2026-02-17T23:44:28Z", "status": "pending"},
+    {"id": 7, "type": "write_article", "priority": "high", "params": {"keyword": "best AI writing tools for freelancers 2026", "type": "review", "target_words": 2500}, "created": "2026-02-18T00:05:08Z", "status": "pending"},
+    {"id": 8, "type": "seo_optimization", "priority": "medium", "params": {"description": "Add tags and keywords to existing articles (hello-world, best-ai-tools) using new schema fields"}, "created": "2026-02-18T00:05:08Z", "status": "pending"},
+    {"id": 9, "type": "deploy", "priority": "high", "params": {"description": "Git commit session changes and push to deploy"}, "created": "2026-02-18T00:05:08Z", "status": "pending"},
+    {"id": 10, "type": "write_article", "priority": "medium", "params": {"keyword": "Zapier vs Make vs n8n for freelancers 2026", "type": "comparison", "target_words": 2500}, "created": "2026-02-18T01:00:00Z", "status": "pending"},
+    {"id": 11, "type": "write_article", "priority": "medium", "params": {"keyword": "how to automate client onboarding as a freelancer", "type": "workflow_guide", "target_words": 2000}, "created": "2026-02-18T01:00:00Z", "status": "pending"}
   ],
-  "next_id": 12
+  "next_id": 14
 }
