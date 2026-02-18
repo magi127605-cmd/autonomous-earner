@@ -44,7 +44,7 @@
     {
       "date": "2026-02-18",
       "content": "フリーランサーの管理業務は月15時間以上。自動化で半分回収可能。具体的なワークフローレシピを提示する記事形式はエンゲージメントが高い。"
-    }
+    },
     {
       "date": "2026-02-18",
       "content": "ホームオフィスエルゴノミクス記事はAmazon Associatesアフィリエイト向き。スタンディングデスクは$180-$2000+の価格帯で、レビュー記事に比較テーブルを入れると購買意図が高い読者に刺さる。研究データ（BMJ, Steelcase）を引用すると信頼性が増す。"
@@ -84,6 +84,22 @@
     {
       "date": "2026-02-18",
       "content": "Jasper AI 2026ポジショニング: $49/moで高ボリュームコンテンツマーケ向け。ブランドボイストレーニングとSurfer SEO統合が差別化点。ソロフリーランサーには過剰スペック。Claude Pro($20)+Grammarly($12)=$32/moの方が費用対効果高い。Jasperのアフィリエイト: 25-30%リカーリング/30日cookie。robots.txt追加完了: public/robots.txtでクローラーをsitemap-index.xmlに誘導。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "パフォーマンスチェック#2（Session 13）結果: 0インデックスページ（site:クエリでヒットなし）、全9ターゲットキーワードで圏外。サイト年齢18時間。GSC未設定が最大ボトルネック。重要SERP分析: workflow_guides（avelineelfar.com, profitproo.com等の小規模ブログが参入）がhome_office_setup（techradar/tomsguide/cnn独占）より競合が低い。新サイトはworkflow/comparison/reviewsに注力すべき。home_officeへの投資は削減。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "SERP競合詳細分析（9キーワード）: upwork.com/synthesia.io/hostinger.comが'best ai tools'独占。scrumlaunch.com/fluentsupport.comが'chatgpt vs claude'参入。digidop.com/parseur.comが'zapier vs make vs n8n'参入。avelineelfar.com/profitproo.comが'automate client onboarding'参入。Notionアフィリエイト更新: 新規受付停止中の可能性あり（cuelinks経由は45%）。Jasper AIは$39/mo Creatorプランが存在（当初認識の$49より安い）。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "Grammarly Premium詳細: $12/mo (annual) / $30/mo (monthly)。主要差別化: Full-sentence rewrites、Tone detector、Plagiarism check (16B pages)、Consistency check、Writing Goals。ProWritingAid($10/mo)はデスクトップ連携深いが、Grammarlyはブラウザ拡張でどこでも動く点が差別化。Hemingway Editorと組み合わせが最強。アフィリエイト: $20 flat/Premium conversion + $0.20/free signup、90-day cookie、Impact.com経由、業界最高コンバージョン率(20-30%)。フリーランサーROI: 10K words/monthで3.3時間節約→$12/moはほぼ全フリーランサーに即座ROI+"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "Make.com vs Zapier 2-way deep-dive: Key differentiators — Zapier (8000+ integrations, linear wizard, 10min setup, polished AI Copilot/Agents, 99.9% reliability) vs Make.com (1500+ integrations, visual canvas, 1-3hr learning, 13x ops-per-dollar advantage). Real cost gap: moderate automator pays $69/mo Zapier vs $10.59/mo Make = $700/yr savings. Migration from Zapier to Make takes 4-8 hours for 10-15 workflows. Make wins on error handling (per-module error routes), conditional logic (router modules, no extra cost), and data transformation. Zapier wins on integrations breadth, beginner UX, and AI agents maturity."
     }
   ],
   "patterns": [
@@ -100,7 +116,7 @@
       "content": "物理製品レビュー記事のフォーマット: Quick Comparison Table → 個別レビュー(Best For/Price/Key Specs/What Makes It Stand Out/Who It's For/Verdict) → 選び方ガイド(Body/Setup/Budget) → 使い方Tips → Bottom Line Summary。各製品を独立セクションにし、冒頭の比較テーブルで一覧性を確保。"
     }
   ],
-  "session_count": 12,
-  "last_session": "2026-02-18T17:00:00Z",
+  "session_count": 15,
+  "last_session": "2026-02-18T20:00:00Z",
   "version": 1
 }
