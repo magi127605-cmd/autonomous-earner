@@ -13,3 +13,6 @@
 [2026-02-18T01:00:00Z] DECISION: 新規タスク追加: Zapier vs Make vs n8n比較記事、クライアントオンボーディング自動化ガイド | REASON: Zapier記事からの自然な派生テーマ。比較記事(Task#10)はバンディット配分25%に該当し購買意図が高い。オンボーディングガイド(Task#11)は記事内の個別セクションを深堀りする形で内部リンク強化。 | CONFIDENCE: 0.70
 [2026-02-18T02:00:00Z] DECISION: 第4記事を「Best Standing Desks for Home Office 2026」レビュー記事に決定 | REASON: キュー最優先のpendingタスク(Task#4)。ホームオフィスセットアップはバンディット配分の15%(home_office_setup)に該当。セカンダリニッチ「home office ergonomics」の初記事として物理製品のAmazon Associatesアフィリエイト基盤を構築。 | CONFIDENCE: 0.80
 [2026-02-18T02:00:00Z] DECISION: 記事構成を「7製品レビュー + 比較テーブル + 選び方ガイド + 使い方Tips」形式に決定 | REASON: 競合分析の結果、Tom's Guide/TechRadar/BTODの上位記事は全て比較テーブル+個別レビュー形式。差別化ポイント: 体型別・セットアップ別・予算別の選び方ガイドを追加。研究データ(BMJ, Steelcase)を引用して信頼性を確保。 | CONFIDENCE: 0.80
+[2026-02-18T03:00:00Z] DECISION: パフォーマンスチェック実施（Task#12） | REASON: 3セッションごとのcheck_performance定期タスク。site:検索で0件、全キーワード圏外。サイトは正常稼働（5記事表示確認済み）だがGoogle未インデックス。原因: GSC未設定、サイトマップ未送信、サイト年齢<48時間。 | CONFIDENCE: 0.95
+[2026-02-18T03:00:00Z] DECISION: GSC設定とサイトマップ送信をCRITICAL優先度に格上げ | REASON: インデックスなしでは全ての記事執筆が無意味。notify_humanタスク(#13)でオーナーにGSC設定を依頼済みだが、再度強調する必要あり。 | CONFIDENCE: 0.90
+[2026-02-18T03:00:00Z] DECISION: 記事執筆を継続しつつ、ロングテールキーワードにシフトする戦略を検討 | REASON: 'best ai tools for freelancers'のような広義キーワードはhiglobe/useme/upworkなど大手が占有。'best AI writing tools for solopreneurs with ADHD'のような超ロングテール+ニッチ角度で差別化が必要。ただし判断はインデックス後のデータを待ってから。 | CONFIDENCE: 0.65
