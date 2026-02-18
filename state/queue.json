@@ -8,7 +8,7 @@
         "description": "Git commit all changes and push to deploy via GitHub Pages"
       },
       "created": "2026-02-17T23:44:28Z",
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": 2,
@@ -20,7 +20,7 @@
         "target_words": 2500
       },
       "created": "2026-02-17T23:44:28Z",
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": 3,
@@ -54,7 +54,7 @@
         "description": "Add tags and keywords fields to content.config.ts schema for better SEO"
       },
       "created": "2026-02-17T23:44:28Z",
-      "status": "pending"
+      "status": "done"
     },
     {
       "id": 6,
@@ -65,7 +65,39 @@
       },
       "created": "2026-02-17T23:44:28Z",
       "status": "pending"
+    },
+    {
+      "id": 7,
+      "type": "write_article",
+      "priority": "high",
+      "params": {
+        "keyword": "best AI writing tools for freelancers 2026",
+        "type": "review",
+        "target_words": 2500
+      },
+      "created": "2026-02-18T00:05:08Z",
+      "status": "pending"
+    },
+    {
+      "id": 8,
+      "type": "seo_optimization",
+      "priority": "medium",
+      "params": {
+        "description": "Add tags and keywords to existing articles (hello-world, best-ai-tools) using new schema fields"
+      },
+      "created": "2026-02-18T00:05:08Z",
+      "status": "pending"
+    },
+    {
+      "id": 9,
+      "type": "deploy",
+      "priority": "high",
+      "params": {
+        "description": "Git commit session 2 changes and push to deploy"
+      },
+      "created": "2026-02-18T00:05:08Z",
+      "status": "pending"
     }
   ],
-  "next_id": 7
+  "next_id": 10
 }

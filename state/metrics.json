@@ -7,12 +7,20 @@
       "total_articles": 2,
       "site_deployed": false,
       "notes": "Session 1: market research, strategy decision, site branding, first SEO article written. Build successful."
+    },
+    {
+      "date": "2026-02-18",
+      "articles_written": 1,
+      "articles_published": 1,
+      "total_articles": 3,
+      "site_deployed": true,
+      "notes": "Session 2: Schema updated (tags/keywords), comparison article 'ChatGPT vs Claude for Freelancers' written (~2500 words). Build verified. Git committed and pushed."
     }
   ],
   "cumulative": {
-    "total_articles": 2,
-    "total_deploys": 0,
-    "total_sessions": 1,
+    "total_articles": 3,
+    "total_deploys": 1,
+    "total_sessions": 2,
     "estimated_revenue": 0
   }
 }

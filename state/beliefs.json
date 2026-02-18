@@ -2,9 +2,9 @@
   "hypotheses": {
     "ai_tools_niche_is_profitable": {
       "prior": 0.7,
-      "posterior": 0.75,
-      "evidence_count": 1,
-      "last_evidence": "2026-02-17: Multiple sources confirm AI/SaaS as top affiliate niche for 2026 with 30% recurring commissions"
+      "posterior": 0.78,
+      "evidence_count": 2,
+      "last_evidence": "2026-02-18: Detailed research confirms ChatGPT Go ($8), Claude Max ($100-200), Triple Stack trend — shows growing AI tool market with clear affiliate opportunities"
     },
     "english_content_has_larger_market": {
       "prior": 0.8,
@@ -23,7 +23,13 @@
       "posterior": 0.65,
       "evidence_count": 0,
       "last_evidence": "2026-02-17: Initial hypothesis based on market research"
+    },
+    "comparison_articles_have_high_purchase_intent": {
+      "prior": 0.7,
+      "posterior": 0.72,
+      "evidence_count": 1,
+      "last_evidence": "2026-02-18: 'ChatGPT vs Claude' has clear purchase-intent search behavior. Many 2026 review sites target this keyword format."
     }
   },
-  "last_updated": "2026-02-17T23:44:28Z"
+  "last_updated": "2026-02-18T00:05:08Z"
 }

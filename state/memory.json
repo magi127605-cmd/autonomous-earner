@@ -24,10 +24,27 @@
     {
       "date": "2026-02-17",
       "content": "Astroのブログテンプレートは即座に動作する。content.config.tsのスキーマにtags/keywordsフィールドがないため、将来追加が必要。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "content.config.tsにtags/keywordsフィールドを追加完了。z.array(z.string()).default([])で後方互換性を維持。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "比較記事はSEOに強い形式。ChatGPT vs Claudeのような対決型キーワードは検索意図が明確（購買検討段階）。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "2026年のAIツール市場: ChatGPT Go($8/mo)が新登場、Claude Max($100-200/mo)が追加。フリーランサーの主流は$20/moのPlus/Pro。Triple Stack(ChatGPT+Claude+Perplexity=$60/mo)がトレンド。"
     }
   ],
-  "patterns": [],
-  "session_count": 1,
-  "last_session": "2026-02-17T23:44:28Z",
+  "patterns": [
+    {
+      "date": "2026-02-18",
+      "content": "比較記事のフォーマット: Quick Verdict → 各カテゴリ詳細比較 → 使い分けガイド → 最終推奨。テーブルを多用すると読みやすい。"
+    }
+  ],
+  "session_count": 2,
+  "last_session": "2026-02-18T00:05:08Z",
   "version": 1
 }

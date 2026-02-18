@@ -5,3 +5,6 @@
 [2026-02-17T23:44:28Z] DECISION: サイト名を「SoloStack」に決定、英語コンテンツで展開 | REASON: 英語圏の市場規模が圧倒的に大きい。ソロプレナー向けAIスタックというポジショニングが明確。 | CONFIDENCE: 0.70
 [2026-02-17T23:44:28Z] DECISION: 初記事を「7 Best AI Tools for Freelancers in 2026」に決定 | REASON: 高い検索意図（購買意図あり）、競合記事が多いが差別化可能（実用的な使い方に特化）、アフィリエイトリンク設置の自然な機会が多い。 | CONFIDENCE: 0.65
 [2026-02-17T23:44:28Z] DECISION: 既存のGitHub Pagesホスティングをそのまま使用 | REASON: 既にastro.configに設定済み。まずはコンテンツ量産を優先し、トラフィック増加後にCloudflare Pagesへ移行検討。 | CONFIDENCE: 0.80
+[2026-02-18T00:05:08Z] DECISION: content.config.tsにtags/keywordsフィールドを追加 | REASON: SEO最適化のためメタデータ拡充が必要。default([])で後方互換性を維持し既存記事のビルドが壊れない。 | CONFIDENCE: 0.90
+[2026-02-18T00:05:08Z] DECISION: 第2記事を「ChatGPT vs Claude for Freelancers」比較記事に決定 | REASON: キューの最優先タスク(Task#2)。比較記事は購買意図が高いキーワードを狙え、アフィリエイトリンク設置の自然な機会が多い。バンディット配分の25%(comparison_articles)に該当。 | CONFIDENCE: 0.75
+[2026-02-18T00:05:08Z] DECISION: 既存2記事にtags/keywordsを追加してSEOメタデータを統一 | REASON: 新スキーマの実効性を全記事で統一。将来のタグ別ページ生成やSEO分析の基盤作り。 | CONFIDENCE: 0.85
