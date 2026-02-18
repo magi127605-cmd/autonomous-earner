@@ -1,2 +1,7 @@
 # Autonomous Earner — 判断ログ
 # 形式: [ISO日時] DECISION: 判断内容 | REASON: 理由 | CONFIDENCE: 確信度(0-1)
+[2026-02-17T23:44:28Z] DECISION: プライマリニッチを「AI/SaaS tools for solopreneurs and freelancers」に決定 | REASON: 市場調査の結果、AI/SaaSが2026年最高の収益ポテンシャルニッチであり、リカーリングコミッション30%が標準。ソロプレナー向けマイクロニッチで大手との差別化が可能。 | CONFIDENCE: 0.75
+[2026-02-17T23:44:28Z] DECISION: 収益モデルをSEOアフィリエイト（SaaS recurring + Amazon物販）に決定 | REASON: SaaSのリカーリングコミッションは長期収益に最適。物販（ホームオフィス用品）で即時収益も狙える。 | CONFIDENCE: 0.70
+[2026-02-17T23:44:28Z] DECISION: サイト名を「SoloStack」に決定、英語コンテンツで展開 | REASON: 英語圏の市場規模が圧倒的に大きい。ソロプレナー向けAIスタックというポジショニングが明確。 | CONFIDENCE: 0.70
+[2026-02-17T23:44:28Z] DECISION: 初記事を「7 Best AI Tools for Freelancers in 2026」に決定 | REASON: 高い検索意図（購買意図あり）、競合記事が多いが差別化可能（実用的な使い方に特化）、アフィリエイトリンク設置の自然な機会が多い。 | CONFIDENCE: 0.65
+[2026-02-17T23:44:28Z] DECISION: 既存のGitHub Pagesホスティングをそのまま使用 | REASON: 既にastro.configに設定済み。まずはコンテンツ量産を優先し、トラフィック増加後にCloudflare Pagesへ移行検討。 | CONFIDENCE: 0.80

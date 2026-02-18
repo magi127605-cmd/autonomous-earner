@@ -1,15 +1,39 @@
 {
-  "decided": false,
-  "primary_niche": "",
-  "secondary_niches": [],
-  "revenue_model": "",
+  "decided": true,
+  "primary_niche": "AI/SaaS tools for solopreneurs and freelancers",
+  "secondary_niches": [
+    "home office ergonomics and productivity setup",
+    "remote work automation workflows"
+  ],
+  "revenue_model": "SEO affiliate marketing with recurring SaaS commissions + Amazon Associates for physical products",
   "content_plan": {
-    "target_articles_per_day": 0,
-    "keyword_targets": [],
-    "content_pillars": []
+    "target_articles_per_day": 1,
+    "keyword_targets": [
+      "best AI tools for freelancers",
+      "AI writing tools comparison",
+      "best AI tools for small business",
+      "AI productivity stack 2026",
+      "home office setup for remote workers",
+      "standing desk vs sitting desk productivity",
+      "AI automation tools review",
+      "free AI tools for solopreneurs",
+      "AI email assistant comparison",
+      "best ergonomic office chair for long hours"
+    ],
+    "content_pillars": [
+      "AI tool reviews and comparisons",
+      "Productivity workflow guides",
+      "Home office setup optimization",
+      "Automation tutorials for non-technical users"
+    ]
   },
-  "bandit_allocation": {},
-  "phase": "init",
-  "decided_at": "",
-  "last_reviewed": ""
+  "bandit_allocation": {
+    "ai_tool_reviews": 0.40,
+    "comparison_articles": 0.25,
+    "workflow_guides": 0.20,
+    "home_office_setup": 0.15
+  },
+  "phase": "building",
+  "decided_at": "2026-02-17T23:44:28Z",
+  "last_reviewed": "2026-02-17T23:44:28Z"
 }

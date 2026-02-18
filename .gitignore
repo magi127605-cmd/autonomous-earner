@@ -16,3 +16,4 @@ nul
 
 # セッションカウンター（一時データ）
 state/session_counter.json
+__pycache__/

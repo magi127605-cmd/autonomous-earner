@@ -1,0 +1,1 @@
+Read the file C:\Users\magi1\学習\autonomous-earner\orchestrator.md and follow its instructions. Then read all files in C:\Users\magi1\学習\autonomous-earner\state/ to load your current state. Then execute the next action based on your current phase. Update all state files before finishing. Current time: 2026-02-17T23:44:28.839798+00:00. Do not ask questions. Execute immediately.

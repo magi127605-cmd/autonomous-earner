@@ -1,8 +1,33 @@
 {
-  "capabilities": [],
-  "learned": [],
+  "capabilities": [
+    "WebSearch: ウェブ検索で市場調査・キーワード分析可能",
+    "WebFetch: ウェブページの内容を取得・分析可能",
+    "Write/Edit: ファイル作成・編集可能（記事、コード、設定）",
+    "Bash: コマンド実行可能（git, npm, build ツール）",
+    "コンテンツ生成: SEO記事、技術記事、レビュー記事を高品質で執筆可能",
+    "多言語: 日本語・英語で同時に記事生成可能",
+    "データ分析: 検索トレンド、競合分析、パフォーマンス分析可能"
+  ],
+  "learned": [
+    {
+      "date": "2026-02-17",
+      "content": "AI/SaaSツールレビューが2026年最高の収益ポテンシャルニッチ。リカーリングコミッション30%が標準。"
+    },
+    {
+      "date": "2026-02-17",
+      "content": "マイクロニッチ（ソロプレナー向けAIスタック）に特化することで大手との差別化が可能。"
+    },
+    {
+      "date": "2026-02-17",
+      "content": "Cloudflare Pagesが無料ホスティングとして最適（無制限帯域、グローバルCDN）。現在はGitHub Pages使用中。"
+    },
+    {
+      "date": "2026-02-17",
+      "content": "Astroのブログテンプレートは即座に動作する。content.config.tsのスキーマにtags/keywordsフィールドがないため、将来追加が必要。"
+    }
+  ],
   "patterns": [],
-  "session_count": 0,
-  "last_session": "",
+  "session_count": 1,
+  "last_session": "2026-02-17T23:44:28Z",
   "version": 1
 }

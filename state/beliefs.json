@@ -1,4 +1,29 @@
 {
-  "hypotheses": {},
-  "last_updated": ""
+  "hypotheses": {
+    "ai_tools_niche_is_profitable": {
+      "prior": 0.7,
+      "posterior": 0.75,
+      "evidence_count": 1,
+      "last_evidence": "2026-02-17: Multiple sources confirm AI/SaaS as top affiliate niche for 2026 with 30% recurring commissions"
+    },
+    "english_content_has_larger_market": {
+      "prior": 0.8,
+      "posterior": 0.8,
+      "evidence_count": 0,
+      "last_evidence": "2026-02-17: Initial assumption based on market size comparison"
+    },
+    "long_form_reviews_rank_better": {
+      "prior": 0.6,
+      "posterior": 0.6,
+      "evidence_count": 0,
+      "last_evidence": "2026-02-17: Initial hypothesis, needs validation with actual rankings"
+    },
+    "solopreneur_micro_niche_has_low_competition": {
+      "prior": 0.65,
+      "posterior": 0.65,
+      "evidence_count": 0,
+      "last_evidence": "2026-02-17: Initial hypothesis based on market research"
+    }
+  },
+  "last_updated": "2026-02-17T23:44:28Z"
 }

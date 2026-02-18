@@ -108,19 +108,21 @@ def increment_session_count():
     )
 
 
-def build_prompt() -> str:
-    """Claude Codeに渡すプロンプトを構築"""
+def build_prompt_file() -> Path:
+    """Claude Codeに渡すプロンプトをファイルに書き出す（エンコーディング問題回避）"""
+    prompt_file = PROJECT_DIR / "state" / "_current_prompt.md"
     orchestrator_path = PROJECT_DIR / "orchestrator.md"
-    return (
-        f"あなたは自律型AI収益エンジンである。\n"
-        f"まず {orchestrator_path} を Read ツールで読み、指示に従え。\n"
-        f"作業ディレクトリ: {PROJECT_DIR}\n"
-        f"state/ ディレクトリ: {STATE_DIR}\n"
-        f"現在時刻: {datetime.now(timezone.utc).isoformat()}\n"
-        f"\n"
-        f"orchestrator.md の指示に従い、state/ を読んで自分で判断し行動しろ。\n"
-        f"セッション終了時に必ず state/ を更新しろ。"
+    now = datetime.now(timezone.utc).isoformat()
+
+    prompt = (
+        f"Read the file {orchestrator_path} and follow its instructions. "
+        f"Then read all files in {STATE_DIR}/ to load your current state. "
+        f"Then execute the next action based on your current phase. "
+        f"Update all state files before finishing. "
+        f"Current time: {now}. Do not ask questions. Execute immediately."
     )
+    prompt_file.write_text(prompt, encoding="utf-8")
+    return prompt_file
 
 
 def find_claude_cmd() -> str:
@@ -136,14 +138,16 @@ def find_claude_cmd() -> str:
 def run_claude_session() -> bool:
     """Claude Codeセッションを1回実行。成功時True。"""
     claude_cmd = find_claude_cmd()
-    prompt = build_prompt()
+    prompt_file = build_prompt_file()
+
+    prompt_text = prompt_file.read_text(encoding="utf-8")
 
     cmd = [
         claude_cmd,
         "--print",
+        "--dangerously-skip-permissions",
         "--verbose",
-        "--max-turns", "30",
-        "-p", prompt,
+        "-p", prompt_text,
     ]
 
     logger.info("Claude Code セッション開始")
