@@ -72,6 +72,10 @@
     {
       "date": "2026-02-18",
       "content": "自動化ツール市場2026: Zapier(8000+統合/$19.99 for 750 tasks)が最も簡単。Make.com(1500+統合/$10.59 for 10,000 ops)がコスパ最強(13倍の操作数/ドル)。n8n(1000+統合/自己ホスト無料)が技術者向け最強。フリーランサー推奨パス: Zapier無料→Make Core($10.59)→n8n自己ホスト。Zapierは公開アフィリエイトプログラムなし。Make.comはパートナープログラムあり。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "クライアントオンボーディング自動化市場: Dubsado($20/mo)は複雑ワークフロー向け・セットアップ1-2週間。HoneyBook($19/mo)はクリエイティブ向け・セットアップ1-2日。フリーランサーの手動オンボーディングは1クライアントあたり235分→自動化で15分(94%削減)。月3クライアントで月11時間節約。Calendly/Cal.comで予約自動化が最初のステップ。Typeform/JotFormでリード取得フォーム作成。Make.comで各ツールを連携。"
     }
   ],
   "patterns": [
@@ -88,7 +92,7 @@
       "content": "物理製品レビュー記事のフォーマット: Quick Comparison Table → 個別レビュー(Best For/Price/Key Specs/What Makes It Stand Out/Who It's For/Verdict) → 選び方ガイド(Body/Setup/Budget) → 使い方Tips → Bottom Line Summary。各製品を独立セクションにし、冒頭の比較テーブルで一覧性を確保。"
     }
   ],
-  "session_count": 10,
-  "last_session": "2026-02-18T15:00:00Z",
+  "session_count": 11,
+  "last_session": "2026-02-18T16:00:00Z",
   "version": 1
 }
