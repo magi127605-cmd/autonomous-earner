@@ -16,3 +16,6 @@
 [2026-02-18T03:00:00Z] DECISION: パフォーマンスチェック実施（Task#12） | REASON: 3セッションごとのcheck_performance定期タスク。site:検索で0件、全キーワード圏外。サイトは正常稼働（5記事表示確認済み）だがGoogle未インデックス。原因: GSC未設定、サイトマップ未送信、サイト年齢<48時間。 | CONFIDENCE: 0.95
 [2026-02-18T03:00:00Z] DECISION: GSC設定とサイトマップ送信をCRITICAL優先度に格上げ | REASON: インデックスなしでは全ての記事執筆が無意味。notify_humanタスク(#13)でオーナーにGSC設定を依頼済みだが、再度強調する必要あり。 | CONFIDENCE: 0.90
 [2026-02-18T03:00:00Z] DECISION: 記事執筆を継続しつつ、ロングテールキーワードにシフトする戦略を検討 | REASON: 'best ai tools for freelancers'のような広義キーワードはhiglobe/useme/upworkなど大手が占有。'best AI writing tools for solopreneurs with ADHD'のような超ロングテール+ニッチ角度で差別化が必要。ただし判断はインデックス後のデータを待ってから。 | CONFIDENCE: 0.65
+[2026-02-18T17:00:00Z] DECISION: Task#14 robots.txtをpublic/に追加 | REASON: クローラーへのsitemap誘導が未完了。robots.txtなしでは一部クローラーがsitemapを発見しにくい。1ファイル追加で完了できる低コスト高インパクト改善。 | CONFIDENCE: 0.95
+[2026-02-18T17:00:00Z] DECISION: Task#16 Notion詳細レビュー記事を優先実行 | REASON: Notion affiliate programが最高コミッション(50%リカーリング/12ヶ月+180日cookie)。review記事でアフィリエイト経由収益の早期確立を狙う。SEO的にも'notion for freelancers'+'notion affiliate program'の二軸キーワードでロングテール強化。 | CONFIDENCE: 0.85
+[2026-02-18T17:00:00Z] DECISION: Task#17 Jasper AIレビュー記事を同セッションで執筆 | REASON: 高優先度キューに残っていた。Notion記事と合わせてAI writingツールの記事クラスター強化。Jasper 25-30%リカーリングコミッションも有効。結論を'Solo freelancer → Claude/Writesonic推奨、Agency → Jasper推奨'と明確化してコンバージョン率を最大化。 | CONFIDENCE: 0.80

@@ -76,6 +76,14 @@
     {
       "date": "2026-02-18",
       "content": "クライアントオンボーディング自動化市場: Dubsado($20/mo)は複雑ワークフロー向け・セットアップ1-2週間。HoneyBook($19/mo)はクリエイティブ向け・セットアップ1-2日。フリーランサーの手動オンボーディングは1クライアントあたり235分→自動化で15分(94%削減)。月3クライアントで月11時間節約。Calendly/Cal.comで予約自動化が最初のステップ。Typeform/JotFormでリード取得フォーム作成。Make.comで各ツールを連携。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "Notion深掘り: 最高アフィリエイトプログラム(50%リカーリング/12ヶ月+180日cookie via PartnerStack)。フリーランサー向け最大の訴求点: 5アプリ→1アプリ統合(Evernote+Trello+GoogleDocs+CRM+Wiki)。学習コストが唯一の障壁。テンプレートギャラリーが差別化コンテンツの機会(テンプレート共有→サイトへの流入)。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "Jasper AI 2026ポジショニング: $49/moで高ボリュームコンテンツマーケ向け。ブランドボイストレーニングとSurfer SEO統合が差別化点。ソロフリーランサーには過剰スペック。Claude Pro($20)+Grammarly($12)=$32/moの方が費用対効果高い。Jasperのアフィリエイト: 25-30%リカーリング/30日cookie。robots.txt追加完了: public/robots.txtでクローラーをsitemap-index.xmlに誘導。"
     }
   ],
   "patterns": [
@@ -92,7 +100,7 @@
       "content": "物理製品レビュー記事のフォーマット: Quick Comparison Table → 個別レビュー(Best For/Price/Key Specs/What Makes It Stand Out/Who It's For/Verdict) → 選び方ガイド(Body/Setup/Budget) → 使い方Tips → Bottom Line Summary。各製品を独立セクションにし、冒頭の比較テーブルで一覧性を確保。"
     }
   ],
-  "session_count": 11,
-  "last_session": "2026-02-18T16:00:00Z",
+  "session_count": 12,
+  "last_session": "2026-02-18T17:00:00Z",
   "version": 1
 }
