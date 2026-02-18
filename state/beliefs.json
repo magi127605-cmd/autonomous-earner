@@ -41,7 +41,25 @@
       "posterior": 0.65,
       "evidence_count": 1,
       "last_evidence": "2026-02-18: 0 pages indexed after <48 hours is normal but confirms need for proactive GSC submission. Without it, indexing timeline is unpredictable."
+    },
+    "notion_affiliate_is_highest_value_program": {
+      "prior": 0.5,
+      "posterior": 0.85,
+      "evidence_count": 1,
+      "last_evidence": "2026-02-18: Notion offers 50% recurring commission for 12 months with 180-day cookie — best in class. Vs Jasper 25-30%/30-day, Grammarly $20 flat/90-day. Notion's team plans multiply earnings significantly."
+    },
+    "zapier_content_not_directly_monetizable": {
+      "prior": 0.3,
+      "posterior": 0.9,
+      "evidence_count": 1,
+      "last_evidence": "2026-02-18: Zapier confirmed NO public affiliate program. Solution Partner only (agencies/consultants). Zapier articles serve SEO traffic but must monetize via Make.com or other automation tools."
+    },
+    "recurring_commissions_beat_flat_rates": {
+      "prior": 0.7,
+      "posterior": 0.82,
+      "evidence_count": 1,
+      "last_evidence": "2026-02-18: Comparison confirms: Notion 50%/12mo can earn $48-2500+ per referral vs Grammarly $20 flat. For SaaS tools, recurring > flat for long-term revenue."
     }
   },
-  "last_updated": "2026-02-18T03:00:00Z"
+  "last_updated": "2026-02-18T04:00:00Z"
 }

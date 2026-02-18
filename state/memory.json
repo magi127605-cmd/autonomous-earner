@@ -60,6 +60,14 @@
     {
       "date": "2026-02-18",
       "content": "競合SERP分析: 'best ai tools for freelancers 2026'はhiglobe/useme/upworkなど中堅〜大手が上位。'chatgpt vs claude'はplaycode.io/medium/scrumlaunchなど。'standing desk'はtechradar/tomsguide/CNN。いずれも権威サイトが上位だが、一部medium記事やニッチサイトも上位に食い込んでいる。完全に不可能ではない。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "アフィリエイトプログラム調査完了。最高優先: Notion(50%リカーリング/12ヶ月+180日cookie) via PartnerStack。次点: Jasper AI(25-30%リカーリング/12ヶ月+30日cookie) 直接/Impact.com。Grammarly($20フラット+$25ボーナス+90日cookie) via Impact.com。重大発見: Zapierは公開アフィリエイトプログラムなし→Zapier記事はMake.comアフィリエイトで代替収益化。"
+    },
+    {
+      "date": "2026-02-18",
+      "content": "AIライティングツール市場2026: Jasper($49/mo)がコンテンツマーケ向け最強。Claude Pro($20/mo)がニュアンス・深度で最優秀。Grammarly Premium($12/mo)は必須編集ツール。最適スタック: Claude Pro + Grammarly Premium = $32/moで90%のユースケースをカバー。Jasperは月40-50記事以上書くフリーランサー向け。Writesonic($16/mo)は予算重視向けベスト。"
     }
   ],
   "patterns": [
@@ -76,7 +84,7 @@
       "content": "物理製品レビュー記事のフォーマット: Quick Comparison Table → 個別レビュー(Best For/Price/Key Specs/What Makes It Stand Out/Who It's For/Verdict) → 選び方ガイド(Body/Setup/Budget) → 使い方Tips → Bottom Line Summary。各製品を独立セクションにし、冒頭の比較テーブルで一覧性を確保。"
     }
   ],
-  "session_count": 5,
-  "last_session": "2026-02-18T03:00:00Z",
+  "session_count": 7,
+  "last_session": "2026-02-18T12:00:00Z",
   "version": 1
 }
